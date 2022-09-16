@@ -1,3 +1,11 @@
-# NLW eSports
+# NLW eSports - trilha Explorer
 
-## README features coming soon...
+![preview](./.github/preview.png)
+
+> Projeto desenvolvido na Next Level Week da RocketSeat
+
+## Tecnologias usadas:
+
+- HTML
+- CSS
+- Git e Github
