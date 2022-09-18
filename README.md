@@ -4,7 +4,7 @@
 
 > Projeto desenvolvido na Next Level Week da RocketSeat
 
-## Tecnologias usadas:
+## 🔨 Tecnologias usadas:
 
 - HTML
 - CSS
